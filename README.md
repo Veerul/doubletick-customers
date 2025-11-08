@@ -140,8 +140,3 @@ For this project, it’s hosted here:
 
 ---
 
-##  License
-
-MIT License – free to use, modify, and distribute with credit.
-
----
